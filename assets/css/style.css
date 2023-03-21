@@ -62,7 +62,7 @@ p {
 }
 
 
-.hero {
+.background {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -84,17 +84,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefits-box {
+.benefits-column {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits-box h3 {
+.benefits-column h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits-box img {
+.benefits-column img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
