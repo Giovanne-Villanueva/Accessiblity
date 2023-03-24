@@ -14,9 +14,9 @@ The Horiseon webpage is just a webpage with info provided by Horiseon. The heade
 
 Here is link to the Webpage: https://giovanne-villanueva.github.io/Accessiblity/ 
 
-![Part 1 image of Horiseon Webpage](./assets/images/part1.png)
-![Part 2 image of Horiseon Webpage](./assets/images/part2.png)
-![Part 3 image of Horiseon Webpage](./assets/images/part3.png)
+![Part 1 image of Horiseon Webpage](./assets/images/part1.PNG)
+![Part 2 image of Horiseon Webpage](./assets/images/part2.PNG)
+![Part 3 image of Horiseon Webpage](./assets/images/part3.PNG)
 
 ## Credits
 
