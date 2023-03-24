@@ -12,6 +12,12 @@ N/A
 
 The Horiseon webpage is just a webpage with info provided by Horiseon. The header of the webpage has a clickable attruibute that takes users to specific topics in the webpage. If you look at the HTML file you can see comments breaking down the different sections of HTML code. The images have a description now. 
 
+Here is link to the Webpage: https://giovanne-villanueva.github.io/Accessiblity/ 
+
+![Part 1 image of Horiseon Webpage](./assets/images/part1.PNG)
+![Part 2 image of Horiseon Webpage](./assets/images/part2.PNG)
+![Part 3 image of Horiseon Webpage](./assets/images/part3.PNG)
+
 ## Credits
 
 Thank You Xandromus for the started code
